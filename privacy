@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mon IA - Politique de confidentialité</title>
+<style>
+  body { font-family: -apple-system, "Helvetica Neue", sans-serif; max-width: 640px; margin: 4rem auto; padding: 0 1rem; line-height: 1.6; color: #222; }
+  h1 { font-size: 1.6rem; }
+</style>
+</head>
+<body>
+<h1>Politique de confidentialité</h1>
+<p>Mon IA est un assistant personnel à usage privé. Il accède, avec le consentement de son propriétaire, aux données du compte Google de celui-ci via les API Google, aux seules fins d'exécuter les tâches demandées.</p>
+<p><strong>Données accédées :</strong> les données du compte Google du propriétaire, dans la limite des autorisations accordées lors de la connexion.</p>
+<p><strong>Stockage :</strong> les jetons d'autorisation sont stockés localement sur la machine de l'utilisateur. Aucune donnée n'est stockée sur un serveur tiers.</p>
+<p><strong>Partage :</strong> aucune donnée n'est vendue, partagée ou transmise à des tiers. Aucune publicité, aucune mesure d'audience.</p>
+<p><strong>Utilisation :</strong> les données sont utilisées uniquement pour exécuter les tâches demandées par leur propriétaire, conformément aux exigences d'usage limité (Limited Use) de Google.</p>
+<p><a href="index.html">Retour à l'accueil</a></p>
+</body>
+</html>
